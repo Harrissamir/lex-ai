@@ -2,8 +2,7 @@
   publish = "."
 
 [functions]
-  directory = "."
-  node_bundler = "esbuild"
+  directory = "netlify/functions"
 
 [[headers]]
   for = "/*"
